@@ -7,7 +7,7 @@
 - Asal Sekolah      : SMK Telkom Malang
 
 ##Hasil ScreenShoot Project AdvancedWidget3
-- Hasil Output Program
-![Screenshoot_1](https://s28.postimg.org/53cu7p2ul/AW3_1.png)
-- Hasil Pengoprasian Program
-![Screenshoot_2](https://s29.postimg.org/4gl0jtn9j/AW3_2.png)
+- Hasil Output Program<br>
+![Screenshoot_1](https://s28.postimg.org/53cu7p2ul/AW3_1.png)<br>
+- Hasil Pengoprasian Program<br>
+![Screenshoot_2](https://s29.postimg.org/4gl0jtn9j/AW3_2.png)<br>
